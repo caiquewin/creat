@@ -1,0 +1,9 @@
+C:\Users\caique\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\caique\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\caique\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.csprojAssemblyReference.cache
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.Form1.resources
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.Properties.Resources.resources
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.GenerateResource.cache
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\caique\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
